@@ -6,7 +6,7 @@ I am Victor Vieira, a software developer with many passions. Not focused in spec
 
 I really like to clarify things and make it them maintenable and readable for others.
 
-A lover os geek things like Star Wars, so expect to see hear phrases like "The force is strong in your code" or even "Do it" for specific ideias.
+A lover of geek things like Star Wars, so expect to see hear phrases like "The force is strong in your code" or even "Do it" for specific ideias.
 
 Currently working deeply with Golang(GO) and Security :closed_lock_with_key:
 

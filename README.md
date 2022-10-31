@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello World 👋
+
+I am Victor Vieira, a software developer with many passions. Not focused in specific tecnologies but in problems and how to solve them with the proper tehcnology. 
+
+:books: I enjoy(a lot) reading and I really love(:heart_eyes:) to talk about concepts and ideas to improve myself and others. My carrer is mainly focused in Backend Development for Cloud and Security aspects of software. 
+
+I really like to clarify things and make it them maintenable and readable for others.
+
+A lover os geek things like Star Wars, so expect to see hear phrases like "The force is strong in your code" or even "Do it" for specific ideias.
+
+Currently working deeply with Golang(GO) and Security :closed_lock_with_key:
 
 <!--
 **Victorblsilveira/Victorblsilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

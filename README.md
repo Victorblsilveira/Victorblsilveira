@@ -1,4 +1,4 @@
-### Hello World 👋
+### 👋 Hello World 
 
 I am Victor Vieira, a software developer with many passions. Not focused in specific tecnologies but in problems and how to solve them with the proper tehcnology. 
 
@@ -10,6 +10,16 @@ A lover of geek things like Star Wars, so expect to see hear phrases like "The f
 
 Currently working deeply with Golang(GO) and Security :closed_lock_with_key:
 
+
+## :link: Links 
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Victorblsilveira)
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/victorvbls/)
+
+## :book: Blog Post
+
+Coming soon
 <!--
 **Victorblsilveira/Victorblsilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
